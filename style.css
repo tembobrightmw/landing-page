@@ -65,9 +65,79 @@ a {
 
 button {
     color: white;
-    background-color: #3882f6;
-    border-radius: 4px;
     border: none;
     padding: 4px 16px;
     margin-top: 4px;
+}
+
+button, .call-to-action {
+    background-color: #3882f6;
+    border-radius: 4px;
+}
+.info {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+    flex-wrap: wrap;
+    padding-bottom: 92px;
+    
+}
+.image-box {
+   max-width: 200px;
+   text-align: center;
+}
+
+img {
+    width: 192px;
+    height: 192px;
+}
+
+.text {
+    align-content: center;
+}
+
+.quote-section {
+    background-color: #e5e7eb;
+    padding-top: 92px;
+    padding-bottom: 92px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.thor {
+    font-weight: 800;
+    text-align: right;
+}
+
+.call-to-action {
+    margin: 92px 124px;
+    padding: 36px 64px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.call-to-action-header {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.button-2 {
+    font-weight: 700;
+    border-color: white;
+    border: 2px;
+    font-size: 16px;
 }
