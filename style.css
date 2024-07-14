@@ -51,6 +51,11 @@ a {
     justify-content: center;
 }
 
+.placeholder img {
+    width: 600px;
+    height: 300px;
+}
+
 .title {
     font-size: 48px;
     font-weight: bolder;

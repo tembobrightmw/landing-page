@@ -16,6 +16,10 @@ Photo name berger.jpg
 By Simon Berger
 downloaded from https://www.pexels.com/photo/scenic-view-of-mountains-during-dawn-1266810/
 
+Photo name hetto.jpg
+By Martin Hetto
+downloaded from https://pixabay.com/illustrations/leaves-pattern-abstract-blade-8846763/ 
+
 The text under the flowers was copied from Britannica. It has nothing to do with the photos
 Source of text: https://www.britannica.com/science/flower
 
