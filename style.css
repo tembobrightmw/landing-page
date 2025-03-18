@@ -40,21 +40,23 @@ a {
     padding-top: 70px;
     padding-bottom: 70px;
     justify-content: space-between;
+    gap: 16px;
 }
 
 .this-website-container {
     display: flex;
     flex-direction: column;
-    gap: 8px;
 }
 
 .this-website-container button {
     color: #e5e7eb;
     font-weight: 700;
     background-color: #3882f6;
-    padding: 4px 16px;
+    padding: 4px 24px;
     border-radius: 25px;
     border-style: none;
+    margin-top: 10px;
+
 }
 
 .image-placeholder img {
@@ -64,15 +66,19 @@ a {
     border-color: #e5e7eb;
 }
 
-p1 {
+h1 {
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+    padding: 0;
+    margin: 0;
 }
 
-p2, a {
+h4, a {
     font-size: 18px;
-    color: #e5e7eb;
+    color: #f9faf8;
+    padding: 0;
+    margin: 0;
 }
 
 .information {
